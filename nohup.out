@@ -1,0 +1,7 @@
+[2016-06-21 19:42:13 +0000] [28500] [INFO] Starting gunicorn 19.6.0
+[2016-06-21 19:42:13 +0000] [28500] [ERROR] Retrying in 1 second.
+[2016-06-21 19:42:15 +0000] [28500] [ERROR] Retrying in 1 second.
+[2016-06-21 19:42:16 +0000] [28500] [ERROR] Retrying in 1 second.
+[2016-06-21 19:42:17 +0000] [28500] [ERROR] Retrying in 1 second.
+[2016-06-21 19:42:18 +0000] [28500] [ERROR] Retrying in 1 second.
+[2016-06-21 19:42:19 +0000] [28500] [ERROR] Can't connect to ('172.29,97.12', 8001)
